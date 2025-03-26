@@ -11,9 +11,9 @@ namespace LOL.Lesson10
     {
         private List<Progrm> programists = new List<Progrm>()
         {
-            new Progrm { Name = "Komron", Position = "Junior", Hobby = "Football", Salary = 1000, WorkCompany = "Microsoft" },
-            new Progrm { Name = "Abdulaziz", Position = "Middle", Hobby = "Basketball", Salary = 2000, WorkCompany = "Google" },
-            new Progrm { Name = "Temurbek", Position = "Senior", Hobby = "Volleyball", Salary = 3000, WorkCompany = "Apple" },
+            new Progrm { Name = "Cena", Position = "Junior", Hobby = "Football", Salary = 1000, WorkCompany = "Microsoft" },
+            new Progrm { Name = "Jack", Position = "Middle", Hobby = "Basketball", Salary = 2000, WorkCompany = "Google" },
+            new Progrm { Name = "Jill", Position = "Senior", Hobby = "Volleyball", Salary = 3000, WorkCompany = "Apple" },
             new Progrm { Name = "John", Position = "Junior", Hobby = "Hockey", Salary = 1000, WorkCompany = "Microsoft" },
             new Progrm { Name = "Rock", Position = "Middle", Hobby = "Baseball", Salary = 2000, WorkCompany = "Google" }
         };
